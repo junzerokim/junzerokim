@@ -1,5 +1,5 @@
 <h1 align="center">cos</h1>
-<p style {font-size:100px;}>Hello</p>
+ <font size="1"> This is my text number1</font> 
 
 <h2 align="center">⚙️ Tech Stack ⚙️</h2>
 
