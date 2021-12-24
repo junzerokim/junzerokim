@@ -1,5 +1,5 @@
 <h1 align="center">cos</h1>
-<p style="font-size:50px;">Hello</p>
+#Hello
 
 <h2 align="center">⚙️ Tech Stack ⚙️</h2>
 
