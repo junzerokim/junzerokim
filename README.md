@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white"/></a>
+  
  
 
 * ##### IDE
