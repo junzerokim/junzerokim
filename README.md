@@ -22,5 +22,4 @@
 * ##### IDE
 
   <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white"/></a>
-
-<img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Atom-66595C?style=flat&logo=Atom&logoColor=white"/></a>
