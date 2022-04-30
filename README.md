@@ -5,6 +5,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Styled'-'Components-DB7093?style=flat&logo=Styled-Components&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Styled-Components-DB7093?style=flat&logo=Styled-Components&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3676AB?style=flat&logo=Python&logoColor=white"/></a>
 </p>
