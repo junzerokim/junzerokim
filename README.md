@@ -7,6 +7,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7E018?style=flat&logo=JavaScript&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=Sass&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat&logo=Styled-Components&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/></a>
 </p>
