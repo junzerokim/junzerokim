@@ -1,5 +1,5 @@
 <h1 align="center">cos</h1>
-<h2 align="center">⚙️ Tech Stack ⚙️</h2>
+# Tech Stack ⚙️
 
 ---
 
