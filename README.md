@@ -1,4 +1,4 @@
-# Hello :) My Name is Cos. 👩🏻‍🚀
+👩🏻‍🚀
 ---
 
 ## Tech Stack ⚙️
