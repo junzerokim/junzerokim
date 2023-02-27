@@ -20,10 +20,3 @@
   <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=flat&logo=zoom&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Google%20Meet-00897B?style=flat&logo=GoogleMeet&logoColor=white"/></a>
-  
-  
- 
-
-* ##### IDE
-
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual-Studio-Code&logoColor=white"/></a>
