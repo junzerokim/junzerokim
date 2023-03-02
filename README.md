@@ -1,4 +1,4 @@
-# Hi! Welcome to my universe 🪐
+# Hi! Welcome to my Universe 🪐
 
 ## I'm Cos, Frontend developer from Seoul, Korea 🇰🇷
 
