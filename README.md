@@ -1,4 +1,4 @@
-# Hi! Welcome to my Universe 🪐
+# 🔭
 I'm Junyoung, Frontend developer from Seoul, Korea 🇰🇷
 
 * #### Language
