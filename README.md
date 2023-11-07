@@ -1,5 +1,5 @@
 # 🔭
-I'm Junyoung, Developer from Seoul, Korea 🇰🇷
+### I'm Junyoung, Developer from Seoul, Korea 🇰🇷
 
 * #### Language
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>
